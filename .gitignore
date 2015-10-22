@@ -7,7 +7,9 @@ proguard/
 .DS_Store
 .settings
 local.properties
-Paginize.iml
+*.iml
+PaginizeLib/ant.properties
+PaginizeDemo/ant.properties
 .idea/
 out
 *.out
